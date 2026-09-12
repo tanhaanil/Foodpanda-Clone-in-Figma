@@ -1,0 +1,2 @@
+# Foodpanda-Clone-in-Figma
+This repository contains a **UI/UX design clone project** of Foodpanda built in Figma, created to reverse-engineer and study real-world user flows, visual hierarchies, and component architecture. You can interact with the live prototype here: [View Figma Live Prototype](https://www.figma.com/proto/x1DlPrMZsJUbAaaVDVRTbj/Untitled?node-id=13-161&t=NyCSb3gXfFTFSG5U-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
